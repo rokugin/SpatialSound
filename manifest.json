@@ -1,0 +1,10 @@
+{
+  "$schema": "https://smapi.io/schemas/manifest.json",
+  "Name": "Spatial Sound",
+  "Author": "rokugin",
+  "Version": "1.0.0",
+  "Description": ".",
+  "UniqueID": "rokugin.SS",
+  "EntryDll": "SpatialSound.dll",
+  "UpdateKeys": []
+}
